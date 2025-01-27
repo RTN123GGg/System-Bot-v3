@@ -3,14 +3,14 @@
 "token": null,
 "port":3000,
 "PREFIX": "!",
-"BOT_ID":"",
-"GUILD": "",
+"BOT_ID":"1332912122262323340",
+"GUILD": "1331670123639214191",
 "allMentions": false, 
-"TAXCHANNEL":["","",""],
+"TAXCHANNEL":["1333229633323270317","",""],
 "status": ["!help", "developer tools"],
 "time_status":4000,
 "status2":"online",
-"activity":"WATCHING",
+"activity":"STREAMING",
   
 
 "AUTOLINECHANNEL": ["929826856805486622","890382500491329558","991684194294038588"],
